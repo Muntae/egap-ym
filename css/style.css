@@ -673,7 +673,7 @@ ul.portfolio li.active {
 
 .statistics-section {
 	position: relative;
-    background: url(../images/bg/statistics.jpg);
+    background-color: black;
     background-size: cover;
     z-index: 1;
 }
